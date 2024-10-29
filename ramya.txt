@@ -1,2 +1,3 @@
 hi ramya this is jenkins classes
 this is the second class
+this is the new changes we integrated the jenkins with github so it will trigger the commited changes automatically
